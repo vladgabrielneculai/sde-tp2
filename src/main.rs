@@ -16,9 +16,9 @@ impl Vector{
         self.valoare.insert(rnr,nr);
       
     }
-    fn remove(&mut self, i:usize){
-        self.valoare.remove(i);
-    }
+    // fn remove(&mut self, i:usize){
+    //     self.valoare.remove(i);
+    // }
 
    fn print(&self){
        println!("{:?}",self.valoare);  //varianta simplificata
