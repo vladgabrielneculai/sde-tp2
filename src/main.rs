@@ -1,3 +1,4 @@
+//Exercices 1-5
 struct Vector{
     valoare: Vec<i32>,
 }
